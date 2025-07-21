@@ -1,0 +1,6 @@
+python-dotenv
+PyMuPDF
+faiss-cpu
+langchain
+langchain-community
+langchain-openai

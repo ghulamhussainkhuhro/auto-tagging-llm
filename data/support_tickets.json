@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "message": "I can't log into my account after the latest update. It says my password is incorrect."
+  },
+  {
+    "id": 2,
+    "message": "My credit card was charged twice for the same purchase. Please help!"
+  },
+  {
+    "id": 3,
+    "message": "The app crashes every time I try to open it on my Android phone."
+  },
+  {
+    "id": 4,
+    "message": "I need a refund for my last order. The item was defective."
+  },
+  {
+    "id": 5,
+    "message": "How do I change my email address associated with my account?"
+  },
+  {
+    "id": 6,
+    "message": "I received the wrong item in my order. Can I get a replacement?"
+  },
+  {
+    "id": 7,
+    "message": "The website is not loading properly on my laptop. It keeps showing a 404 error."
+  },
+  {
+    "id": 8,
+    "message": "Can you help me reset my password? I forgot it and can't access my account."
+  },
+  {
+    "id": 9,
+    "message": "I want to cancel my subscription, but I can't find the option in my account settings."
+  },
+  {
+    "id": 10,
+    "message": "The customer service phone number is always busy. How can I reach someone?"
+  },
+  {
+    "id": 11,
+    "message": "I am having trouble with the payment gateway. It keeps rejecting my card."
+  },
+  {
+    "id": 12,
+    "message": "The delivery of my order is delayed. Can you provide an update?"
+  },
+  {
+    "id": 13,
+    "message": "I want to report a bug in the latest version of the app."
+  },
+  {
+    "id": 14,
+    "message": "How do I unsubscribe from your newsletter?"
+  },
+  {
+    "id": 15,
+    "message": "I can't find my order history on the website. Is it a known issue?"
+  },
+  {
+    "id": 16,
+    "message": "The app is not syncing with my account. I see different data on my phone and laptop."
+  },
+  {
+    "id": 17,
+    "message": "I need assistance with setting up my new device. It's not connecting to the network."
+  },
+  {
+    "id": 18,
+    "message": "Can you explain the features of the premium plan? I'm considering upgrading."
+  },
+  {
+    "id": 19,
+    "message": "I received a notification about a security breach. What should I do?"
+  },
+  {
+    "id": 20,
+    "message": "The search function on the website is not working. It returns no results for any query."
+  }
+]

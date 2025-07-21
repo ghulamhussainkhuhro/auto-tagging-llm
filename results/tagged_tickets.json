@@ -1,0 +1,178 @@
+[
+  {
+    "id": 1,
+    "message": "I can't log into my account after the latest update. It says my password is incorrect.",
+    "tags": [
+      "Account Access",
+      "Technical Problem",
+      "Bug Report"
+    ]
+  },
+  {
+    "id": 2,
+    "message": "My credit card was charged twice for the same purchase. Please help!",
+    "tags": [
+      "Billing Issue",
+      "Refund Request",
+      "Account Access"
+    ]
+  },
+  {
+    "id": 3,
+    "message": "The app crashes every time I try to open it on my Android phone.",
+    "tags": [
+      "Technical Problem",
+      "Bug Report",
+      "Technical Problem"
+    ]
+  },
+  {
+    "id": 4,
+    "message": "I need a refund for my last order. The item was defective.",
+    "tags": [
+      "Refund Request",
+      "Billing Issue",
+      "Technical Problem"
+    ]
+  },
+  {
+    "id": 5,
+    "message": "How do I change my email address associated with my account?",
+    "tags": [
+      "Account Access",
+      "Subscription Management",
+      "General Inquiry"
+    ]
+  },
+  {
+    "id": 6,
+    "message": "I received the wrong item in my order. Can I get a replacement?",
+    "tags": [
+      "Refund Request",
+      "Billing Issue",
+      "General Inquiry"
+    ]
+  },
+  {
+    "id": 7,
+    "message": "The website is not loading properly on my laptop. It keeps showing a 404 error.",
+    "tags": [
+      "Technical Problem",
+      "Bug Report",
+      "General Inquiry"
+    ]
+  },
+  {
+    "id": 8,
+    "message": "Can you help me reset my password? I forgot it and can't access my account.",
+    "tags": [
+      "Account Access",
+      "Technical Problem",
+      "Billing Issue"
+    ]
+  },
+  {
+    "id": 9,
+    "message": "I want to cancel my subscription, but I can't find the option in my account settings.",
+    "tags": [
+      "Subscription Management",
+      "Account Access",
+      "Billing Issue"
+    ]
+  },
+  {
+    "id": 10,
+    "message": "The customer service phone number is always busy. How can I reach someone?",
+    "tags": []
+  },
+  {
+    "id": 11,
+    "message": "I am having trouble with the payment gateway. It keeps rejecting my card.",
+    "tags": [
+      "Billing Issue",
+      "Technical Problem",
+      "Refund Request"
+    ]
+  },
+  {
+    "id": 12,
+    "message": "The delivery of my order is delayed. Can you provide an update?",
+    "tags": [
+      "General Inquiry",
+      "Billing Issue",
+      "Refund Request"
+    ]
+  },
+  {
+    "id": 13,
+    "message": "I want to report a bug in the latest version of the app.",
+    "tags": [
+      "Bug Report",
+      "Technical Problem",
+      "General Inquiry"
+    ]
+  },
+  {
+    "id": 14,
+    "message": "How do I unsubscribe from your newsletter?",
+    "tags": [
+      "Subscription Management",
+      "General Inquiry",
+      "Billing Issue"
+    ]
+  },
+  {
+    "id": 15,
+    "message": "I can't find my order history on the website. Is it a known issue?",
+    "tags": [
+      "Account Access",
+      "Technical Problem",
+      "Bug Report"
+    ]
+  },
+  {
+    "id": 16,
+    "message": "The app is not syncing with my account. I see different data on my phone and laptop.",
+    "tags": [
+      "Technical Problem",
+      "Account Access",
+      "Bug Report"
+    ]
+  },
+  {
+    "id": 17,
+    "message": "I need assistance with setting up my new device. It's not connecting to the network.",
+    "tags": [
+      "Technical Problem",
+      "Account Access",
+      "General Inquiry"
+    ]
+  },
+  {
+    "id": 18,
+    "message": "Can you explain the features of the premium plan? I'm considering upgrading.",
+    "tags": [
+      "Feature Request",
+      "Subscription Management",
+      "General Inquiry"
+    ]
+  },
+  {
+    "id": 19,
+    "message": "I received a notification about a security breach. What should I do?",
+    "tags": [
+      "Account Access",
+      "Technical Problem",
+      "General Inquiry"
+    ]
+  },
+  {
+    "id": 20,
+    "message": "The search function on the website is not working. It returns no results for any query.",
+    "tags": [
+      "Technical Problem",
+      "Bug Report",
+      "General Inquiry"
+    ]
+  }
+]
